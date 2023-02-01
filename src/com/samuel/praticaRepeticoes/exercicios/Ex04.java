@@ -18,5 +18,5 @@ public class Ex04 {
 		System.out.println(anos + " Anos");
 
 	}
-
 }
+
